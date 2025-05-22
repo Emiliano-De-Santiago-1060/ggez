@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Fresas Con crema",
+    "precio": "$60.00",
+    "disponible": true,
+    "imagenUrl": "https://raw.githubusercontent.com/Emiliano-De-Santiago-1060/Snacks_imagenes_app_flutter/refs/heads/main/fresas.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Papas locas",
+    "precio": "$45.00",
+    "disponible": false,
+    "imagenUrl": "https://raw.githubusercontent.com/Emiliano-De-Santiago-1060/Snacks_imagenes_app_flutter/refs/heads/main/papaslocas.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Clamahuates",
+    "precio": "$30.00",
+    "disponible": true,
+    "imagenUrl": "https://raw.githubusercontent.com/Emiliano-De-Santiago-1060/Snacks_imagenes_app_flutter/refs/heads/main/clamahuates.jpeg"
+  }
+]
